@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da9ee6f8-d069-4a90-a3cc-9cf84864b3fc": {
+      "ProjectGuid": "da9ee6f8-d069-4a90-a3cc-9cf84864b3fc",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 0
+    },
+    "20995b54-843a-4db2-8704-606561664bbe": {
+      "ProjectGuid": "20995b54-843a-4db2-8704-606561664bbe",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
